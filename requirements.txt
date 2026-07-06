@@ -1,2 +1,3 @@
 fastapi[standard]
 uvicorn
+langchain_google_genai
